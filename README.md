@@ -1,3 +1,5 @@
+# Face Detection
+
 Project name: Face Detection
 
 Description: This code provides the basics of the OpenCV library and uses them to: Detect faces that enter the camera, write the time a face is detected and the time a face leaves into a .csv file and the file is saved in the main directory of wherever the python file is saved.
